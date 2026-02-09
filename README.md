@@ -1,21 +1,59 @@
+<div align="center">
+
 # Karan Jadaun
-Full Stack Developer | AI Systems Builder | SaaS Architect
+### Full Stack Developer | AI Systems Builder | SaaS Architect
 
-karanjadaun.linkedin.com | kjadon648@gmail.com | 877.023.9862 | Agra, U.P | Click to view Portfolio
+**karanjadaun.linkedin.com** | **kjadon648@gmail.com** | **877.023.9862** | **Agra, U.P** | **Click to view Portfolio**
 
----
-
-## Summary
-Systems-focused full stack developer building scalable, production-grade platforms. Experienced in multi-tenant SaaS, event-driven architecture, and AI-enabled workflows. Strong foundation in clean architecture, performance, and reliability.
+</div>
 
 ---
 
-## Core Expertise
-- Scalable multi-tenant SaaS platforms
+<table>
+<tr>
+<td width="65%">
+
+## Executive Summary
+Systems-focused full stack developer building scalable, production-grade platforms. Specialized in multi-tenant SaaS, event-driven pipelines, and AI-enabled workflows. Strong foundation in clean architecture, performance optimization, and reliability.
+
+## Signature Strengths
+- Multi-tenant SaaS architecture and tenant isolation
+- Event-driven systems and background processing
 - Clean architecture and domain-driven design
-- Event-driven pipelines and async processing
 - AI integrations, RAG pipelines, and automation
 - Security-first infrastructure and compliance
+
+</td>
+<td width="35%" align="center">
+
+```
+┌──────────────────────────────────┐
+│  SYSTEMS ENGINEER PROFILE        │
+├──────────────────────────────────┤
+│  Focus: Scale | Reliability      │
+│  Approach: Clean Architecture    │
+│  Edge: AI-First Workflows        │
+└──────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## Architecture Snapshot
+```
+┌─────────────────────────────────────────────────────┐
+│                  Load Balancer                      │
+├─────────────────────────────────────────────────────┤
+│  API Gateway → Auth Layer → Tenant Isolation        │
+├─────────────────────────────────────────────────────┤
+│  Event Bus → Background Jobs → Data Pipeline         │
+├─────────────────────────────────────────────────────┤
+│  PostgreSQL (RLS) → Redis Cache → Object Storage     │
+└─────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -44,7 +82,7 @@ July 2020 - Sept 2020
 
 ---
 
-## Projects
+## Flagship Projects
 **Bazario - Multi-Tenant E-commerce Platform**
 Technologies: Next.js 15, Payload CMS, Stripe Connect, tRPC
 - Multi-tenant marketplace where creators run storefronts and receive payouts via Stripe Connect.
@@ -107,3 +145,12 @@ Visual Studio, PowerShell, Sublime
 - AWS Cloud Foundation
 - TCS ion Career Edge
 - Celonis Rising Star Technical
+
+---
+
+<div align="center">
+
+### Let’s build systems that scale
+**Available for collaborations and architecture consulting**
+
+</div>
