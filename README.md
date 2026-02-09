@@ -3,6 +3,12 @@
 <!-- Hero Banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f10,100:1b1b1f&height=120&section=header&text=KARAN%20JADAUN&fontColor=f5f5f5&fontSize=42&fontAlignY=65" alt="Karan Jadaun" />
 
+<!-- Capsule Accent -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1b1b1f,100:0f0f10&height=60&section=header&text=Scalable%20Systems%20%7C%20AI%20Workflows%20%7C%20SaaS&fontColor=f5f5f5&fontSize=20&fontAlignY=65" alt="Capsule Accent" />
+
+<!-- Contribution Graph (Top) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karan648&theme=github-compact&hide_border=true" alt="Activity Graph" />
+
 ### Full Stack Developer | AI Systems Builder | SaaS Architect
 
 **karanjadaun.linkedin.com** · **kjadon648@gmail.com** · **877.023.9862** · **Agra, U.P** · **Click to view Portfolio**
