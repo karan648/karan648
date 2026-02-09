@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Neon Background Banner -->
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2000&auto=format&fit=crop" alt="Neon Banner" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12020b,100:2c0b11&height=150&section=header&text=KARAN%20JADAUN&fontColor=ffffff&fontSize=46&fontAlignY=68" alt="Karan Jadaun" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1020,100:2a0b2c&height=150&section=header&text=KARAN%20JADAUN&fontColor=ffffff&fontSize=46&fontAlignY=68" alt="Karan Jadaun" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3500&pause=900&color=FF3B6A&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;AI+Systems+Builder;SaaS+Architect;Scalable+Infrastructure+Specialist" alt="Typing" />
 
