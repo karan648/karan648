@@ -1,29 +1,14 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f10,100:1b1b1f&height=120&section=header&text=KARAN%20JADAUN&fontColor=f5f5f5&fontSize=42&fontAlignY=65" alt="Karan Jadaun" />
-
-<!-- Capsule Accent -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1b1b1f,100:0f0f10&height=60&section=header&text=Scalable%20Systems%20%7C%20AI%20Workflows%20%7C%20SaaS&fontColor=f5f5f5&fontSize=20&fontAlignY=65" alt="Capsule Accent" />
-
-<!-- Contribution Graph (Top) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karan648&theme=github-compact&hide_border=true" alt="Activity Graph" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12020b,100:2c0b11&height=140&section=header&text=KARAN%20JADAUN&fontColor=ff3b6a&fontSize=44&fontAlignY=68" alt="Karan Jadaun" />
 
 ### Full Stack Developer | AI Systems Builder | SaaS Architect
 
 **karanjadaun.linkedin.com** · **kjadon648@gmail.com** · **877.023.9862** · **Agra, U.P** · **Click to view Portfolio**
 
-</div>
-
----
-
-<div align="center">
-
-<!-- Premium Badge Row -->
-<img src="https://img.shields.io/badge/Full%20Stack-0F0F10?style=for-the-badge&logo=vercel&logoColor=white" alt="Full Stack" />
-<img src="https://img.shields.io/badge/AI%20Systems-1B1B1F?style=for-the-badge&logo=openai&logoColor=white" alt="AI Systems" />
-<img src="https://img.shields.io/badge/SaaS%20Architect-0F0F10?style=for-the-badge&logo=amazonaws&logoColor=white" alt="SaaS Architect" />
-<img src="https://img.shields.io/badge/Scalable%20Infrastructure-1B1B1F?style=for-the-badge&logo=docker&logoColor=white" alt="Scalable Infrastructure" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-1b0f13?style=for-the-badge&logo=github&logoColor=ff3b6a" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Scalable%20Systems-1b0f13?style=for-the-badge&logo=vercel&logoColor=ff3b6a" alt="Focus" />
+<img src="https://img.shields.io/badge/Edge-AI%20Workflows-1b0f13?style=for-the-badge&logo=openai&logoColor=ff3b6a" alt="Edge" />
 
 </div>
 
@@ -59,6 +44,22 @@ Systems-focused full stack developer building scalable, production-grade platfor
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-0f0b10?style=for-the-badge&logo=nextdotjs&logoColor=ff3b6a" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-12020b?style=for-the-badge&logo=typescript&logoColor=ff3b6a" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-0f0b10?style=for-the-badge&logo=nodedotjs&logoColor=ff3b6a" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-12020b?style=for-the-badge&logo=postgresql&logoColor=ff3b6a" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-0f0b10?style=for-the-badge&logo=redis&logoColor=ff3b6a" alt="Redis" />
+<img src="https://img.shields.io/badge/AWS-12020b?style=for-the-badge&logo=amazonaws&logoColor=ff3b6a" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-0f0b10?style=for-the-badge&logo=docker&logoColor=ff3b6a" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-12020b?style=for-the-badge&logo=kubernetes&logoColor=ff3b6a" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/OpenAI-0f0b10?style=for-the-badge&logo=openai&logoColor=ff3b6a" alt="OpenAI" />
+
+</div>
 
 ---
 
@@ -152,15 +153,6 @@ BSc in Computer Science | May 2022 | GPA: 7.7/10
 
 ---
 
-## Skills
-**Programming**
-Java, SQL, Python, Data Analytics, UI Libraries, Next.js, Framer
-
-**Tools**
-Visual Studio, PowerShell, Sublime
-
----
-
 ## Certifications
 - AWS Cloud Foundation
 - TCS ion Career Edge
@@ -170,16 +162,14 @@ Visual Studio, PowerShell, Sublime
 
 <div align="center">
 
-<!-- Skill Pills -->
-<img src="https://img.shields.io/badge/Next.js-0F0F10?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/TypeScript-1B1B1F?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-0F0F10?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-1B1B1F?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-0F0F10?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/AWS-1B1B1F?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Docker-0F0F10?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-1B1B1F?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/OpenAI-0F0F10?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://github-readme-stats.vercel.app/api?username=karan648&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan648&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karan648&theme=redical&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -187,23 +177,6 @@ Visual Studio, PowerShell, Sublime
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=karan648&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan648&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karan648&theme=github-compact&hide_border=true" alt="Activity Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b1b1f,100:0f0f10&height=90&section=footer&text=Let's%20Build%20Systems%20That%20Scale&fontColor=f5f5f5&fontSize=24&fontAlignY=60" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=90&section=footer&text=Let's%20Build%20Systems%20That%20Scale&fontColor=ff3b6a&fontSize=24&fontAlignY=60" alt="Footer" />
 
 </div>
