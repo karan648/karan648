@@ -1,9 +1,11 @@
 <div align="center">
 
-# Karan Jadaun
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f10,100:1b1b1f&height=120&section=header&text=KARAN%20JADAUN&fontColor=f5f5f5&fontSize=42&fontAlignY=65" alt="Karan Jadaun" />
+
 ### Full Stack Developer | AI Systems Builder | SaaS Architect
 
-**karanjadaun.linkedin.com** | **kjadon648@gmail.com** | **877.023.9862** | **Agra, U.P** | **Click to view Portfolio**
+**karanjadaun.linkedin.com** · **kjadon648@gmail.com** · **877.023.9862** · **Agra, U.P** · **Click to view Portfolio**
 
 </div>
 
@@ -11,7 +13,7 @@
 
 <table>
 <tr>
-<td width="65%">
+<td width="60%">
 
 ## Executive Summary
 Systems-focused full stack developer building scalable, production-grade platforms. Specialized in multi-tenant SaaS, event-driven pipelines, and AI-enabled workflows. Strong foundation in clean architecture, performance optimization, and reliability.
@@ -24,7 +26,7 @@ Systems-focused full stack developer building scalable, production-grade platfor
 - Security-first infrastructure and compliance
 
 </td>
-<td width="35%" align="center">
+<td width="40%" align="center">
 
 ```
 ┌──────────────────────────────────┐
@@ -57,6 +59,24 @@ Systems-focused full stack developer building scalable, production-grade platfor
 
 ---
 
+## Flagship Projects
+**Bazario - Multi-Tenant E-commerce Platform**
+Technologies: Next.js 15, Payload CMS, Stripe Connect, tRPC
+- Multi-tenant marketplace where creators run storefronts and receive payouts via Stripe Connect.
+- Built for isolated tenant data, scalable payments, and modular storefronts.
+
+**AI-Powered Video Conferencing Platform**
+Technologies: Next.js 15, Stream Video SDK, Stream Chat SDK, OpenAI, Inngest, Tailwind CSS, Shadcn/UI
+- Real-time meetings with AI agents, transcripts, summaries, and meeting Q&A.
+- Implemented background jobs for recording, search, and analytics.
+
+**Streamline - ERP Software System**
+Technologies: Next.js, TypeScript, Prisma ORM, Shadcn/UI, Tailwind CSS
+- End-to-end ERP for inventory, HR, and invoicing workflows.
+- Unified frontend and backend with type-safe data access.
+
+---
+
 ## Experience
 **VRD Exports** | Full Stack Developer
 Dec 2023 - Present
@@ -79,24 +99,6 @@ Sept 2023 - Nov 2023
 July 2020 - Sept 2020
 - Delivered tailored web solutions for client requirements.
 - Maintained and optimized websites for performance and usability.
-
----
-
-## Flagship Projects
-**Bazario - Multi-Tenant E-commerce Platform**
-Technologies: Next.js 15, Payload CMS, Stripe Connect, tRPC
-- Multi-tenant marketplace where creators run storefronts and receive payouts via Stripe Connect.
-- Built for isolated tenant data, scalable payments, and modular storefronts.
-
-**AI-Powered Video Conferencing Platform**
-Technologies: Next.js 15, Stream Video SDK, Stream Chat SDK, OpenAI, Inngest, Tailwind CSS, Shadcn/UI
-- Real-time meetings with AI agents, transcripts, summaries, and meeting Q&A.
-- Implemented background jobs for recording, search, and analytics.
-
-**Streamline - ERP Software System**
-Technologies: Next.js, TypeScript, Prisma ORM, Shadcn/UI, Tailwind CSS
-- End-to-end ERP for inventory, HR, and invoicing workflows.
-- Unified frontend and backend with type-safe data access.
 
 ---
 
@@ -150,7 +152,6 @@ Visual Studio, PowerShell, Sublime
 
 <div align="center">
 
-### Let’s build systems that scale
-**Available for collaborations and architecture consulting**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b1b1f,100:0f0f10&height=90&section=footer&text=Let's%20Build%20Systems%20That%20Scale&fontColor=f5f5f5&fontSize=24&fontAlignY=60" alt="Footer" />
 
 </div>
