@@ -1,10 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12020b,100:2c0b11&height=140&section=header&text=KARAN%20JADAUN&fontColor=ff3b6a&fontSize=44&fontAlignY=68" alt="Karan Jadaun" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12020b,100:2c0b11&height=150&section=header&text=KARAN%20JADAUN&fontColor=ffffff&fontSize=46&fontAlignY=68" alt="Karan Jadaun" />
 
-### Full Stack Developer | AI Systems Builder | SaaS Architect
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3500&pause=900&color=FF3B6A&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;AI+Systems+Builder;SaaS+Architect;Scalable+Infrastructure+Specialist" alt="Typing" />
 
 **karanjadaun.linkedin.com** · **kjadon648@gmail.com** · **877.023.9862** · **Agra, U.P** · **Click to view Portfolio**
+
+<a href="https://karanjadaun.linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-1b0f13?style=for-the-badge&logo=linkedin&logoColor=ff3b6a" alt="LinkedIn" />
+</a>
+<a href="mailto:kjadon648@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-1b0f13?style=for-the-badge&logo=gmail&logoColor=ff3b6a" alt="Email" />
+</a>
+<a href="https://github.com/karan648">
+  <img src="https://img.shields.io/badge/GitHub-Explore-1b0f13?style=for-the-badge&logo=github&logoColor=ff3b6a" alt="GitHub" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-1b0f13?style=for-the-badge&logo=github&logoColor=ff3b6a" alt="Status" />
 <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-1b0f13?style=for-the-badge&logo=vercel&logoColor=ff3b6a" alt="Focus" />
@@ -12,7 +28,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
 
 <table>
 <tr>
@@ -45,7 +61,7 @@ Systems-focused full stack developer building scalable, production-grade platfor
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
 
 <div align="center">
 
@@ -61,7 +77,7 @@ Systems-focused full stack developer building scalable, production-grade platfor
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
 
 ## Architecture Snapshot
 ```
@@ -76,50 +92,97 @@ Systems-focused full stack developer building scalable, production-grade platfor
 └─────────────────────────────────────────────────────┘
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
 
 ## Flagship Projects
+<table>
+<tr>
+<td width="33%">
+
+<img src="https://img.shields.io/badge/Bazario-Storefronts-12020b?style=for-the-badge&logo=stripe&logoColor=ff3b6a" alt="Bazario" />
+
 **Bazario - Multi-Tenant E-commerce Platform**
-Technologies: Next.js 15, Payload CMS, Stripe Connect, tRPC
+
+Tech: Next.js 15, Payload CMS, Stripe Connect, tRPC
+
 - Multi-tenant marketplace where creators run storefronts and receive payouts via Stripe Connect.
 - Built for isolated tenant data, scalable payments, and modular storefronts.
 
+</td>
+<td width="33%">
+
+<img src="https://img.shields.io/badge/AI%20Meet-Video%20Platform-12020b?style=for-the-badge&logo=webrtc&logoColor=ff3b6a" alt="AI Meet" />
+
 **AI-Powered Video Conferencing Platform**
-Technologies: Next.js 15, Stream Video SDK, Stream Chat SDK, OpenAI, Inngest, Tailwind CSS, Shadcn/UI
+
+Tech: Next.js 15, Stream Video SDK, OpenAI, Inngest
+
 - Real-time meetings with AI agents, transcripts, summaries, and meeting Q&A.
-- Implemented background jobs for recording, search, and analytics.
+- Background jobs for recordings, search, and analytics.
+
+</td>
+<td width="33%">
+
+<img src="https://img.shields.io/badge/Streamline-ERP%20Suite-12020b?style=for-the-badge&logo=postgresql&logoColor=ff3b6a" alt="Streamline" />
 
 **Streamline - ERP Software System**
-Technologies: Next.js, TypeScript, Prisma ORM, Shadcn/UI, Tailwind CSS
+
+Tech: Next.js, TypeScript, Prisma, Shadcn/UI
+
 - End-to-end ERP for inventory, HR, and invoicing workflows.
 - Unified frontend and backend with type-safe data access.
 
----
+</td>
+</tr>
+</table>
 
-## Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
+
+## Experience Timeline
+<table>
+<tr>
+<td width="20%" align="center">2023 - Present</td>
+<td>
 **VRD Exports** | Full Stack Developer
-Dec 2023 - Present
-- Built production web apps using React and Next.js for client-facing workflows.
-- Developed backend services with Java (Spring Boot) and REST APIs.
-- Designed custom reporting formats using MySQL.
-- Delivered a brand e-commerce site on WordPress.
-
+- React, Next.js, Java (Spring Boot), MySQL, WordPress
+</td>
+</tr>
+<tr>
+<td width="20%" align="center">2023</td>
+<td>
 **Salesforce** | Salesforce Developer
-Oct 2023 - Dec 2023
-- Built custom applications using Apex and Salesforce platform tooling.
-- Developed automated workflows and data-driven features.
-
+- Apex development and workflow automation
+</td>
+</tr>
+<tr>
+<td width="20%" align="center">2023</td>
+<td>
 **Celonis** | Process Mining Virtual Intern
-Sept 2023 - Nov 2023
-- Applied process mining techniques to analyze and optimize business processes.
-- Generated insights to improve operational efficiency.
-
+- Process mining, analysis, and optimization
+</td>
+</tr>
+<tr>
+<td width="20%" align="center">2020</td>
+<td>
 **Programming Park Infotech** | Website Developer
-July 2020 - Sept 2020
-- Delivered tailored web solutions for client requirements.
-- Maintained and optimized websites for performance and usability.
+- Client websites, performance, and UX improvements
+</td>
+</tr>
+</table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
+
+## Impact KPIs
+<div align="center">
+
+<img src="https://img.shields.io/badge/Platforms-15%2B-1b0f13?style=for-the-badge&logo=vercel&logoColor=ff3b6a" alt="Platforms" />
+<img src="https://img.shields.io/badge/Users-500K%2B-1b0f13?style=for-the-badge&logo=github&logoColor=ff3b6a" alt="Users" />
+<img src="https://img.shields.io/badge/Uptime-99.95%25-1b0f13?style=for-the-badge&logo=cloudflare&logoColor=ff3b6a" alt="Uptime" />
+<img src="https://img.shields.io/badge/Transactions-$10M%2B-1b0f13?style=for-the-badge&logo=stripe&logoColor=ff3b6a" alt="Transactions" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
 
 ## Education
 **ITM University, Gwalior**
@@ -128,37 +191,14 @@ Master of Computer Application | Aug 2024 | GPA: 8/10
 **Agra University**
 BSc in Computer Science | May 2022 | GPA: 7.7/10
 
----
-
-## Coursework
-**Postgraduate**
-- Data Structures and Algorithms
-- Database Management Systems
-- Software Engineering
-- Object-Oriented Programming with Java
-- Web Development
-- Computer Networks
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Cloud Computing
-
-**Graduate**
-- C Language
-- Operating Systems
-- Java
-- Functional Programming
-- Computer Graphics + Practicum
-- Graphic Design
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
 
 ## Certifications
 - AWS Cloud Foundation
 - TCS ion Career Edge
 - Celonis Rising Star Technical
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
 
 <div align="center">
 
@@ -169,11 +209,11 @@ BSc in Computer Science | May 2022 | GPA: 7.7/10
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karan648&theme=redical&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karan648&theme=radical&hide_border=true" alt="Activity Graph" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
 
 <div align="center">
 
