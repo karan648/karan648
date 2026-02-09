@@ -11,6 +11,18 @@
 
 ---
 
+<div align="center">
+
+<!-- Premium Badge Row -->
+<img src="https://img.shields.io/badge/Full%20Stack-0F0F10?style=for-the-badge&logo=vercel&logoColor=white" alt="Full Stack" />
+<img src="https://img.shields.io/badge/AI%20Systems-1B1B1F?style=for-the-badge&logo=openai&logoColor=white" alt="AI Systems" />
+<img src="https://img.shields.io/badge/SaaS%20Architect-0F0F10?style=for-the-badge&logo=amazonaws&logoColor=white" alt="SaaS Architect" />
+<img src="https://img.shields.io/badge/Scalable%20Infrastructure-1B1B1F?style=for-the-badge&logo=docker&logoColor=white" alt="Scalable Infrastructure" />
+
+</div>
+
+---
+
 <table>
 <tr>
 <td width="60%">
@@ -147,6 +159,40 @@ Visual Studio, PowerShell, Sublime
 - AWS Cloud Foundation
 - TCS ion Career Edge
 - Celonis Rising Star Technical
+
+---
+
+<div align="center">
+
+<!-- Skill Pills -->
+<img src="https://img.shields.io/badge/Next.js-0F0F10?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-1B1B1F?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-0F0F10?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-1B1B1F?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-0F0F10?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/AWS-1B1B1F?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-0F0F10?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-1B1B1F?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/OpenAI-0F0F10?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=karan648&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan648&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karan648&theme=github-compact&hide_border=true" alt="Activity Graph" />
+
+</div>
 
 ---
 
