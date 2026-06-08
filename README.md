@@ -1,222 +1,271 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1020,100:2a0b2c&height=150&section=header&text=KARAN%20JADAUN&fontColor=ffffff&fontSize=46&fontAlignY=68" alt="Karan Jadaun" />
+<!-- Animated Name Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Karan%20Jadaun&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20Database%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3500&pause=900&color=FF3B6A&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;AI+Systems+Builder;SaaS+Architect;Scalable+Infrastructure+Specialist" alt="Typing" />
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+production-grade+ERP+platforms;Cloud-native+HRMS+%26+SaaS+systems;Full+Stack+%7C+Next.js+%7C+Spring+Boot+%7C+SQL;2%2B+years+shipping+real+products+to+real+users" alt="Typing SVG" />
+</a>
 
-**karanjadaun.linkedin.com** · **kjadon648@gmail.com** · **877.023.9862** · **Agra, U.P** · **Click to view Portfolio**
+<br/>
 
-<a href="https://karanjadaun.linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-1b0f13?style=for-the-badge&logo=linkedin&logoColor=ff3b6a" alt="LinkedIn" />
-</a>
-<a href="mailto:kjadon648@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-1b0f13?style=for-the-badge&logo=gmail&logoColor=ff3b6a" alt="Email" />
-</a>
-<a href="https://github.com/karan648">
-  <img src="https://img.shields.io/badge/GitHub-Explore-1b0f13?style=for-the-badge&logo=github&logoColor=ff3b6a" alt="GitHub" />
-</a>
+<!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-karanjadaun.com-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://karanjadaun.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karanjadaun)
+[![Email](https://img.shields.io/badge/Email-kjadon648@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kjadon648@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Agra,%20India-f59e0b?style=for-the-badge)](https://maps.google.com/?q=Agra,India)
+
+<br/>
+
+<!-- Profile Views & Followers -->
+![Profile Views](https://komarev.com/ghpvc/?username=karanjadaun&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
+---
+
+## ⚡ About Me
+
+```typescript
+const karan: Developer = {
+  name:       "Karan Jadaun",
+  role:       "Full Stack Developer & Database Engineer",
+  experience: "2+ years in production-grade enterprise systems",
+  location:   "Agra, Uttar Pradesh, India 🇮🇳",
+
+  currentWork: {
+    company:  "VRD Exports",
+    project:  "Streamline — Live ERP platform (50+ daily users)",
+    doing:    ["SQL Server engineering", "Next.js 15 APIs", "RBAC systems"],
+  },
+
+  expertise: [
+    "ERP Architecture",
+    "Multi-Tenant SaaS Systems",
+    "Relational Database Engineering",
+    "Cloud-Native Full Stack Development",
+  ],
+
+  openTo:   "High-impact engineering roles",
+  funFact:  "I maintain a 30+ table SQL Server DB in production — daily ⚙️",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-1b0f13?style=for-the-badge&logo=github&logoColor=ff3b6a" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Scalable%20Systems-1b0f13?style=for-the-badge&logo=vercel&logoColor=ff3b6a" alt="Focus" />
-<img src="https://img.shields.io/badge/Edge-AI%20Workflows-1b0f13?style=for-the-badge&logo=openai&logoColor=ff3b6a" alt="Edge" />
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764abc?style=for-the-badge&logo=redux&logoColor=white)
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6db33f?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+
+**Databases**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-cc2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+![OracleDB](https://img.shields.io/badge/OracleDB-f80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078d4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)
+
+**APIs & Integrations**
+
+![Stripe](https://img.shields.io/badge/Stripe_Connect-635bff?style=for-the-badge&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-2d3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00a1e0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%" valign="top">
 
-## Executive Summary
-Systems-focused full stack developer building scalable, production-grade platforms. Specialized in multi-tenant SaaS, event-driven pipelines, and AI-enabled workflows. Strong foundation in clean architecture, performance optimization, and reliability.
+### 🏭 Streamline — Enterprise ERP
+> *Production platform serving 50+ daily users*
 
-## Signature Strengths
-- Multi-tenant SaaS architecture and tenant isolation
-- Event-driven systems and background processing
-- Clean architecture and domain-driven design
-- AI integrations, RAG pipelines, and automation
-- Security-first infrastructure and compliance
+A live full-stack ERP built and maintained **solo**, covering the end-to-end operations of a manufacturing company.
+
+- 🗄️ **30+ normalized SQL Server tables** with complex multi-table JOINs
+- 🔐 **Granular RBAC** — role, module & access-type permission mapping
+- 📦 Full procurement lifecycle: PO → GRN → Material Issue → Invoice
+- 📊 Export pipelines: CSV, Excel, PDF, printable dashboards
+- ☁️ Azure App Config + Key Vault + Docker deployment
+
+**Stack:** `Next.js 15` `SQL Server` `Prisma` `OracleDB` `Azure` `Docker`
 
 </td>
-<td width="40%" align="center">
+<td width="50%" valign="top">
 
-```
-┌──────────────────────────────────┐
-│  SYSTEMS ENGINEER PROFILE        │
-├──────────────────────────────────┤
-│  Focus: Scale | Reliability      │
-│  Approach: Clean Architecture    │
-│  Edge: AI-First Workflows        │
-└──────────────────────────────────┘
-```
+### 🏢 WorkNest — Cloud HRMS
+> *Multi-tenant system with real-time biometrics*
+
+Cloud-native HRMS supporting **hundreds of tenants** with biometric attendance sync from ZKTeco hardware.
+
+- ⚡ Custom **ADMS protocol engine** built from scratch
+- 🔒 **Row-Level Security** for strict tenant data isolation
+- 💰 Dynamic payroll engine — allowances, deductions, tax, overtime
+- 🔄 Claim-by-Serial-Number device isolation workflow
+- ♻️ Bulk-insert with PostgreSQL conflict resolution
+
+**Stack:** `Next.js 15` `Supabase` `PostgreSQL` `RLS` `ZKTeco`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Bazario — SaaS Marketplace
+> *Multi-tenant e-commerce with split payments*
+
+Production-ready multi-vendor marketplace with subdomain-based tenant routing and Stripe Connect commission logic.
+
+- 🌐 Subdomain-based **multi-tenant routing**
+- 💳 **Stripe Connect** split payments with commission logic
+- 🔒 End-to-end type-safe APIs with **tRPC**
+- 📦 Payload CMS for content management
+
+**Stack:** `Next.js 15` `PostgreSQL` `Stripe Connect` `tRPC` `Payload CMS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Video Conferencing Platform
+> *Real-time conferencing with AI superpowers*
+
+Full-featured video conferencing platform with automated AI transcription and intelligent meeting summarization.
+
+- 🎙️ **Automated transcript generation** via OpenAI API
+- 🤖 AI-powered meeting **summaries & Q&A**
+- 🎬 Recording playback & role-based subscriptions
+- ⚙️ **Inngest** background job pipelines
+
+**Stack:** `Next.js 15` `Stream SDK` `OpenAI API` `Inngest`
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Next.js-0f0b10?style=for-the-badge&logo=nextdotjs&logoColor=ff3b6a" alt="Next.js" />
-<img src="https://img.shields.io/badge/TypeScript-12020b?style=for-the-badge&logo=typescript&logoColor=ff3b6a" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-0f0b10?style=for-the-badge&logo=nodedotjs&logoColor=ff3b6a" alt="Node.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-12020b?style=for-the-badge&logo=postgresql&logoColor=ff3b6a" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-0f0b10?style=for-the-badge&logo=redis&logoColor=ff3b6a" alt="Redis" />
-<img src="https://img.shields.io/badge/AWS-12020b?style=for-the-badge&logo=amazonaws&logoColor=ff3b6a" alt="AWS" />
-<img src="https://img.shields.io/badge/Docker-0f0b10?style=for-the-badge&logo=docker&logoColor=ff3b6a" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-12020b?style=for-the-badge&logo=kubernetes&logoColor=ff3b6a" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/OpenAI-0f0b10?style=for-the-badge&logo=openai&logoColor=ff3b6a" alt="OpenAI" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karanjadaun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjadaun&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
+<div align="center">
 
-## Architecture Snapshot
+[![GitHub Streak](https://streak-stats.demolab.com?user=karanjadaun&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+| 🏅 Certification | 🏢 Issuer | 🔑 Key Area |
+|---|---|---|
+| AWS Cloud Foundations | Amazon Web Services | Cloud Architecture |
+| TCS iON Career Edge | Tata Consultancy Services | Professional Skills |
+| Celonis Rising Star Technical | Celonis | Process Mining & EMS |
+
+</div>
+
+---
+
+## 💼 Work Experience Timeline
+
 ```
-┌─────────────────────────────────────────────────────┐
-│                  Load Balancer                      │
-├─────────────────────────────────────────────────────┤
-│  API Gateway → Auth Layer → Tenant Isolation        │
-├─────────────────────────────────────────────────────┤
-│  Event Bus → Background Jobs → Data Pipeline         │
-├─────────────────────────────────────────────────────┤
-│  PostgreSQL (RLS) → Redis Cache → Object Storage     │
-└─────────────────────────────────────────────────────┘
+Dec 2023 – Present  │  VRD Exports
+                    │  Full Stack Developer & Database Engineer
+                    │  ► Sole developer of Streamline ERP (50+ daily users)
+                    │  ► Complex SQL Server engineering on 30+ table schema
+                    │  ► Java Spring Boot APIs, Next.js production systems
+                    │
+Oct – Dec 2023      │  Salesforce
+                    │  Salesforce Developer Intern (Remote)
+                    │  ► Apex triggers, batch classes, Lightning Web Components
+                    │  ► Automated workflows reducing manual effort by 25%
+                    │
+Sep – Nov 2023      │  Celonis
+                    │  Process Mining Virtual Intern (Remote)
+                    │  ► Applied process mining on Celonis EMS platform
+                    │  ► Earned Celonis Rising Star Technical certification
+                    │
+Jul – Sep 2020      │  Programming Park Infotech
+                    │  Web Developer Intern
+                    │  ► Delivered 3+ client websites end-to-end
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
+---
 
-## Flagship Projects
-<table>
-<tr>
-<td width="33%">
+## 🎓 Education
 
-<img src="https://img.shields.io/badge/Bazario-Storefronts-12020b?style=for-the-badge&logo=stripe&logoColor=ff3b6a" alt="Bazario" />
-
-**Bazario - Multi-Tenant E-commerce Platform**
-
-Tech: Next.js 15, Payload CMS, Stripe Connect, tRPC
-
-- Multi-tenant marketplace where creators run storefronts and receive payouts via Stripe Connect.
-- Built for isolated tenant data, scalable payments, and modular storefronts.
-
-</td>
-<td width="33%">
-
-<img src="https://img.shields.io/badge/AI%20Meet-Video%20Platform-12020b?style=for-the-badge&logo=webrtc&logoColor=ff3b6a" alt="AI Meet" />
-
-**AI-Powered Video Conferencing Platform**
-
-Tech: Next.js 15, Stream Video SDK, OpenAI, Inngest
-
-- Real-time meetings with AI agents, transcripts, summaries, and meeting Q&A.
-- Background jobs for recordings, search, and analytics.
-
-</td>
-<td width="33%">
-
-<img src="https://img.shields.io/badge/Streamline-ERP%20Suite-12020b?style=for-the-badge&logo=postgresql&logoColor=ff3b6a" alt="Streamline" />
-
-**Streamline - ERP Software System**
-
-Tech: Next.js, TypeScript, Prisma, Shadcn/UI
-
-- End-to-end ERP for inventory, HR, and invoicing workflows.
-- Unified frontend and backend with type-safe data access.
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
-
-## Experience Timeline
-<table>
-<tr>
-<td width="20%" align="center">2023 - Present</td>
-<td>
-**VRD Exports** | Full Stack Developer
-- React, Next.js, Java (Spring Boot), MySQL, WordPress
-</td>
-</tr>
-<tr>
-<td width="20%" align="center">2023</td>
-<td>
-**Salesforce** | Salesforce Developer
-- Apex development and workflow automation
-</td>
-</tr>
-<tr>
-<td width="20%" align="center">2023</td>
-<td>
-**Celonis** | Process Mining Virtual Intern
-- Process mining, analysis, and optimization
-</td>
-</tr>
-<tr>
-<td width="20%" align="center">2020</td>
-<td>
-**Programming Park Infotech** | Website Developer
-- Client websites, performance, and UX improvements
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
-
-## Impact KPIs
 <div align="center">
 
-<img src="https://img.shields.io/badge/Platforms-15%2B-1b0f13?style=for-the-badge&logo=vercel&logoColor=ff3b6a" alt="Platforms" />
-<img src="https://img.shields.io/badge/Users-500K%2B-1b0f13?style=for-the-badge&logo=github&logoColor=ff3b6a" alt="Users" />
-<img src="https://img.shields.io/badge/Uptime-99.95%25-1b0f13?style=for-the-badge&logo=cloudflare&logoColor=ff3b6a" alt="Uptime" />
-<img src="https://img.shields.io/badge/Transactions-$10M%2B-1b0f13?style=for-the-badge&logo=stripe&logoColor=ff3b6a" alt="Transactions" />
+🎓 **Master of Computer Applications (MCA)**
+ITM University Gwalior | 2022 – 2024 | **GPA: 8.0/10**
+
+🎓 **B.Sc. Computer Science**
+Agra University | 2019 – 2022 | **GPA: 7.7/10**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
+---
 
-## Education
-**ITM University, Gwalior**
-Master of Computer Application | Aug 2024 | GPA: 8/10
-
-**Agra University**
-BSc in Computer Science | May 2022 | GPA: 7.7/10
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
-
-## Certifications
-- AWS Cloud Foundation
-- TCS ion Career Edge
-- Celonis Rising Star Technical
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karan648&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan648&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+[![Karan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karanjadaun&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karan648&theme=radical&hide_border=true" alt="Activity Graph" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=3&section=header" alt="divider" />
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c0b11,100:12020b&height=90&section=footer&text=Let's%20Build%20Systems%20That%20Scale&fontColor=ff3b6a&fontSize=24&fontAlignY=60" alt="Footer" />
+### 🤝 Let's Build Something Remarkable
+
+*Open to full-time roles, freelance collaborations, and interesting side projects.*
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-karanjadaun.com-7c3aed?style=for-the-badge)](https://karanjadaun.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0a66c2?style=for-the-badge)](https://linkedin.com/in/karanjadaun)
+[![Email](https://img.shields.io/badge/📧_Send_an_Email-ea4335?style=for-the-badge)](mailto:kjadon648@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
 </div>
