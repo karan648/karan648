@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Name Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Karan%20Jadaun&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20Database%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Karan%20Jadaun&fontSize=60&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+production-grade+ERP+platforms;Cloud-native+HRMS+%26+SaaS+systems;Full+Stack+%7C+Next.js+%7C+Spring+Boot+%7C+SQL;2%2B+years+shipping+real+products+to+real+users" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=50&lines=Full+Stack+Developer+%7C+Database+Engineer;Building+production-grade+ERP+platforms;Cloud-native+HRMS+%26+SaaS+architect;Next.js+%7C+Spring+Boot+%7C+SQL+Server+%7C+Azure;2%2B+years+shipping+to+real+production+users" alt="Typing SVG" />
 </a>
 
 <br/>
